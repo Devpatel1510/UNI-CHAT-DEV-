@@ -1,0 +1,19 @@
+This is the Frontend and Backend code of Uni chat 
+
+
+I have use DBMONGO and CLOUDINARY for database.
+I have use socket.io for bi-directional communication
+
+
+For Ui (Tailwind and DaisyUI)
+
+
+To start the backend server : npm run dev in Backend 
+To start the Frontend : npm run dev in Frontend
+
+
+Structure and UI is build by ME (DEV PATEL) 
+
+
+You can use this code for educational purpose (don't copy and past , Learn and Implement)
+
