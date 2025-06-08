@@ -17,3 +17,5 @@ Structure and UI is build by ME (DEV PATEL)
 
 You can use this code for educational purpose (don't copy and past , Learn and Implement)
 
+This is not built for deploy (For Security purpose)
+
