@@ -19,3 +19,5 @@ You can use this code for educational purpose (don't copy and past , Learn and I
 
 This is not built for deploy (For Security purpose)
 
+it will work in Mobile but with few limitation and not proper UI 
+
